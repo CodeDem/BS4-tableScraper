@@ -9,13 +9,10 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 Python 3.x
+
 BeautifulSoup
 
 ### Installing
-
-A step by step series of examples that tell you how to get the script runing
-
-
 Installing the dependencies
 
 ```
